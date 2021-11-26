@@ -34,6 +34,9 @@ gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'mast
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
 gem 'dotenv-rails'
+gem 'active_storage_validations'
+gem 'mini_magick'
+gem 'image_processing'
 
 group :development, :test do
   gem 'pry-rails'
